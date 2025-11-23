@@ -1,0 +1,12 @@
+# You just created the Intelligence Server
+# Check what changed
+git status
+
+# Add all changes
+git add .
+
+# Commit with descriptive message
+git commit -m "feat: add Intelligence Server with weather and attractions tools"
+
+# Push to GitHub
+git push
